@@ -25,3 +25,5 @@ After trying literally everything (changing virtual console settings in iDRAC, r
 I have latest iDRAC updates installed (version 2.85 ) released in May 2016 - way later than last public Java 7 release on java.com (April 14, 2015)
 
 ![java7](https://user-images.githubusercontent.com/15046120/115597392-83563500-a2d9-11eb-896f-9e26822e1d46.png)
+
+*This has previously been published on my wordpress blog at https://jure.tuta.si/?p=120 which has been since moved offline*
